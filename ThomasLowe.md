@@ -1,16 +1,21 @@
 Thomas Lowe
 ======
-*Grand Blanc, MI*
+*Lansing, MI*
 
-##### Self-motivated computer scientist with a passion for computer graphics, math, and programming. Seeking opportunities to expand programming skills in a team environment.
+##### A growing software developer with a focus on game development and with experience from a variety of projects including video games, app development, data migration, and testing.
 ###### [ [Website](https://tomlowe.dev) ] . [ [Linkedin](https://www.linkedin.com/in/thomas-l-812704174/) ] . [ [Github](https://github.com/Vulpen) ] . [ [TomLoweUM@gmail.com](mailto:tomloweum@gmail.com) ] . [ 248 210 5928 ]
 
 Experience
 ---------
+**Associate Software Developer | Auto-Owners**(Jan 2021...)
+
+- Contributed to an automated testing app for a data migration service using Kotlin.
+- Worked on a large team around a large-scale insurance claims system.
+
 **Jr. Software Developer/Service Tech | General Inspection, LLC** (August 2019 - July 2020)
 
-- Solved real-world programming problems related to part inspecting
-- Modified software to include features like color pickers and encrypted software authentication
+- Processing real-time dimensions of parts like nuts and bolts.
+- Modified software to include features like color selectors and encrypted software authentication
 - Used python to develop accuracy analysis tools
 
 **Undergraduate Research Assistant | University of Michigan - Flint** (April 2019 - May 2019)
@@ -26,11 +31,11 @@ Experience
 
 **Michigan Election Inspector** (2018)
 
-- Worked at my local precinct for the 2018 primary
+- Worked at a local precinct for the 2018 primary
 
 Education
 ---------
-**Bachelors in Computer Science, University of Michigan - Flint** (2015 - December 2020)
+**Bachelors in Computer Science, University of Michigan - Flint** (2015 - 2020)
 
 - 3.61 GPA
 - Classes in Computer Vision, Artificial Intelligence, Agile development, and Linear Algebra
@@ -40,17 +45,26 @@ Skills
 ------
 <!-- <text class="bubble">data analysis</text> <text class="bubble">databases</text> <text class="bubble">machine learning</text> <text class="bubble">data visualization</text> <text class="bubble">statistics</text> <text class="bubble">technical writing</text> -->
 
-**Programming:** C#, C++, Matlab, Python
+**Languages:** Kotlin, C#, C++, Matlab, Python
 
-**Game Development:** Unity, Unreal Engine, OpenGL, MonoGame(XNA)
+**Game Development:** Unity, OpenGL, Raylib, MonoGame(XNA)
 
 **Web Development:** Blazor, HTML, CSS, React, JavaScript
 
 <!-- Page Break! -->
 <div style="page-break-after: always;"></div>
 
-Projects
+Projects and Contributions
 --------
+
+**[Asteroids GL](https://github.com/Vulpen/CLionGL)**
+
+- The classic game Asteroids rebuilt in C++ and OpenGL.
+- Compatable on windows and linux systems.
+
+**[OpenMW](https://github.com/OpenMW/openmw)**
+
+- Contributed to the 'Open Morrowind', an open source rebuild of Bethesda's engine for game Morrowind.
 
 **[Flies](https://tomlowe.dev/Flies/flies.html)**
 

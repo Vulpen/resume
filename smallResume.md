@@ -1,21 +1,21 @@
 Thomas Lowe
 ======
-*Grand Blanc, MI*
+*Lansing, MI*
 
-##### Self-motivated computer scientist with a passion for computer graphics and programming. Seeking opportunities to expand teamwork and programming skills.
+##### A growing software developer with a focus on game development and with experience from a variety of projects including video games, app development, data migration, and testing.
 ###### [ [Website](https://tomlowe.dev) ] . [ [Linkedin](https://www.linkedin.com/in/thomas-l-812704174/) ] . [ [Github](https://github.com/Vulpen) ] . [ [TomLoweUM@gmail.com](mailto:tomloweum@gmail.com) ] . [ 248 210 5928 ]
 
 Experience
 ---------
+**Associate Software Developer | Auto-Owners (Jan 2021...)**
+
+- Contributed to an automated testing app for a data migration service using Kotlin.
+- Worked on a large team around a large-scale insurance claims system.
+
 **Jr. Software Developer/Service Tech | General Inspection, LLC** (August 2019 - July 2020)
 
-- Solved real-world programming problems related to part inspecting
-- Modified software to include features like color pickers and encrypted software authentication
-
-**Undergraduate Research Assistant | University of Michigan - Flint** (April 2019 - May 2019)
-
-- Developed a mobile application based on React-Native focused on promoting healthy eating in Flint, MI
-- Used for Michigan State University research
+- Processing real-time dimensions of parts like nuts and bolts.
+- Modified software to include features like color selectors and encrypted software authentication
 
 **GDC Conference Associate - San Francisco** (March 2019)
 
@@ -32,11 +32,9 @@ Education
 
 Skills
 ------
-**Programming:** C#, C++, Matlab, Python
+**Languages:** Kotlin, C#, C++, Matlab, Python
 
-<!-- **Game Development:** Unity, OpenGL, MonoGame(XNA) -->
-
-**Web Development:**  JavaScript, HTML, CSS, React
+**Game Development:** Unity, OpenGL, Raylib, MonoGame(XNA)
 
 <!-- Page Break! -->
 <!-- <div style="page-break-after: always;"></div> -->
