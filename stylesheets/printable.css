@@ -1,0 +1,22 @@
+
+/* Use this override for printing PDF! Comment out when done. */
+body{
+    max-width: 55em;
+    margin: 0px;
+    padding: 15px;
+}
+h1{
+    margin-bottom: 0px;
+}
+h2, h4, h6{
+    margin-top:5px;
+    margin-bottom: 3px;
+}
+p{
+    margin-top: 4px;
+    margin-bottom: 2px;
+}
+ul{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}

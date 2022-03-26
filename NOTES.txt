@@ -1,0 +1,8 @@
+cd markdown-resume
+pandoc -o resume.html -c resume-css-stylesheet.css -s resume.md
+**Now need -s for style sheet to work
+** In style.css, there are overrides towards bottom for creating the printable pdf. Comment/uncomment as necessary
+
+
+wkhtmltopdf resume.html resume.pdf 
+pandoc -o resume.docx --reference-docx=resume-docx-reference.docx resume.md
