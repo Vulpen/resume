@@ -9,8 +9,8 @@ Experience
 ---------
 **Associate Software Developer | Auto-Owners**(Jan 2021...)
 
-- Contributed to an automated testing app for a data migration service using Kotlin.
-- Worked on a large team around a large-scale insurance claims system.
+- Collaborated with insurance professionals and developers to create automated testing for an enterprise data migration app.
+- 
 
 **Jr. Software Developer/Service Tech | General Inspection, LLC** (August 2019 - July 2020)
 
@@ -64,7 +64,7 @@ Projects and Contributions
 
 **[OpenMW](https://github.com/OpenMW/openmw)**
 
-- Contributed to the 'Open Morrowind', an open source rebuild of Bethesda's engine for game Morrowind.
+- Contributed to the 'Open Morrowind' project, an open source rebuild of Bethesda's engine for game Morrowind.
 
 **[Flies](https://tomlowe.dev/Flies/flies.html)**
 
