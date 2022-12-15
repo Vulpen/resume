@@ -1,4 +1,4 @@
-Thomas Lowe
+Tom Lowe
 ======
 *Lansing, MI*
 
