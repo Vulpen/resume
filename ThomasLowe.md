@@ -2,19 +2,19 @@ Thomas Lowe
 ======
 *Lansing, MI*
 
-##### A growing software developer with a focus on game development and with experience from a variety of projects including video games, app development, data migration, and testing.
-###### [ [Website](https://tomlowe.dev) ] . [ [Linkedin](https://www.linkedin.com/in/thomas-l-812704174/) ] . [ [Github](https://github.com/Vulpen) ] . [ [TomLoweUM@gmail.com](mailto:tomloweum@gmail.com) ] . [ 248 210 5928 ]
+##### A growing software developer interested in games technology with an expansive variety of experience.
+###### [ [Website](https://tomlowe.dev) ] . [ [Linkedin](https://www.linkedin.com/in/tom-l-812704174) ] . [ [Github](https://github.com/Vulpen) ] . [ [TomLoweUM@gmail.com](mailto:tomloweum@gmail.com) ] . [ 248 210 5928 ]
 
 Experience
 ---------
-**Associate Software Developer | Auto-Owners**(Jan 2021...)
+**Associate Software Developer | Auto-Owners** (Jan 2021...)
 
-- Collaborated with insurance professionals and developers to create automated testing for an enterprise data migration app.
-- 
+- Created automated tests for a data migration microservice using Kotlin and proprietary software.
+- Full-stack development creating batch jobs and user workflow improvements.
 
 **Jr. Software Developer/Service Tech | General Inspection, LLC** (August 2019 - July 2020)
 
-- Processing real-time dimensions of parts like nuts and bolts.
+- Processing real-time dimensions of parts like nuts and bolts with C++ and C#.
 - Modified software to include features like color selectors and encrypted software authentication
 - Used python to develop accuracy analysis tools
 
